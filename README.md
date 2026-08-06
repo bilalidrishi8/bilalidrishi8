@@ -1,4 +1,3 @@
-# 💫 About Me:
 ## 👨‍💼 About Me<br><br>📊 I am a motivated and detail-oriented commerce graduate currently pursuing a Bachelor of Commerce from IGNOU. Passionate about **Data Analysis** and **Business Intelligence**, I have developed practical skills in **SQL, Excel, and Power BI, and Python** through hands-on projects.<br><br>📈 I enjoy transforming raw data into meaningful insights, building interactive dashboards, and solving business problems using data.<br><br>🚀 I am eager to begin my professional career in **Data Analytics, Business Intelligence, or Accounting**, where I can contribute, continuously learn, and grow while creating value for the organization.<br>
 
 
