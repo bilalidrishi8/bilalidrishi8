@@ -1,23 +1,210 @@
-## 👨‍💼 About Me<br><br>📊 I am a motivated and detail-oriented commerce graduate currently pursuing a Bachelor of Commerce from IGNOU. Passionate about **Data Analysis** and **Business Intelligence**, I have developed practical skills in **SQL, Excel, and Power BI, and Python** through hands-on projects.<br><br>📈 I enjoy transforming raw data into meaningful insights, building interactive dashboards, and solving business problems using data.<br><br>🚀 I am eager to begin my professional career in **Data Analytics, Business Intelligence, or Accounting**, where I can contribute, continuously learn, and grow while creating value for the organization.<br>
+# 👋 Hi, I'm Bilal Idrishi
 
+### 📊 Aspiring Data Analyst | Business Intelligence Enthusiast
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/bilalidrishi_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/md-bilal-598561381/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://www.pinterest.com/bilalidrishi8/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/bilalidrishi8) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:itsowen80@gmail.com) 
+I am a motivated and detail-oriented **Commerce graduate** with a strong interest in **Data Analytics, Business Intelligence, and Business Problem Solving**.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Single Store](https://img.shields.io/badge/Single%20Store-AA00FF?style=for-the-badge&logo=singlestore&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Proto.io](https://img.shields.io/badge/Proto.io-161637?style=for-the-badge&logo=proto.io&logoColor=00e5ff) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=bilalidrishi8&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=bilalidrishi8&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=bilalidrishi8&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=bilalidrishi8&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=bilalidrishi8&limit=5&theme=dark&combine_all_yearly_contributions=true)
+I enjoy transforming raw data into meaningful insights, creating interactive dashboards, writing analytical SQL queries, and building practical Python projects.
 
 ---
-[![](https://komarev.com/ghpvc/?username=bilalidrishi8&icon=0&color=10)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+* 🎓 Commerce graduate / pursuing Bachelor of Commerce from **IGNOU**
+* 📊 Aspiring **Data Analyst & BI Professional**
+* 🐍 Learning and building projects with **Python**
+* 🗄️ Working with **SQL & PostgreSQL**
+* 📈 Creating interactive **Power BI dashboards**
+* 📗 Using **Excel & Power Query** for data analysis
+* 💡 Interested in turning business problems into data-driven solutions
+* 🚀 Building a practical portfolio through real-world projects
+
+---
+
+## 🛠️ Tech Stack
+
+### 📊 Data Analytics
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+
+### 🗄️ Database & SQL
+
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+
+### 📈 Business Intelligence
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge\&logo=microsoft\&logoColor=white)
+
+### 📗 Other Tools
+
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+
+---
+
+# 📂 Featured Projects
+
+### 📦 Inventory & Supply Chain Analytics
+
+**Power BI | SQL | DAX | Power Query**
+
+Analyzing inventory levels, warehouse utilization, supplier performance, transportation costs, lead times, and backorders.
+
+🔗 [View Project](https://github.com/bilalidrishi8/inventory-supply-chain-powerbi-dashboard)
+
+---
+
+### 🛒 Customer Shopping Behavior Analysis
+
+**Python | Pandas | SQL | Power BI**
+
+Analyzing customer purchasing behavior, product categories, customer segments, spending patterns, and revenue trends.
+
+🔗 [View Projects](https://github.com/bilalidrishi8)
+
+---
+
+### 🏪 Zepto SQL Data Analysis
+
+**PostgreSQL | SQL | Business Analysis**
+
+Performing SQL-based analysis of products, pricing, discounts, inventory, categories, and revenue opportunities.
+
+🔗 [View Projects](https://github.com/bilalidrishi8)
+
+---
+
+### 🐍 30 Python Projects
+
+A collection of Python projects ranging from beginner programming concepts to practical data analytics applications.
+
+**Python | Pandas | NumPy | Data Analysis**
+
+🔗 [Explore Repository](https://github.com/bilalidrishi8)
+
+---
+
+# 📊 What I Work On
+
+```text
+Raw Data
+   ↓
+Data Cleaning
+   ↓
+Exploratory Data Analysis
+   ↓
+SQL Analysis
+   ↓
+DAX / Data Modeling
+   ↓
+Power BI Dashboard
+   ↓
+Business Insights
+   ↓
+Data-Driven Decisions
+```
+
+---
+
+# 🧠 Skills
+
+| Category        | Skills                               |
+| --------------- | ------------------------------------ |
+| Programming     | Python                               |
+| Data Analysis   | Pandas, NumPy                        |
+| Database        | SQL, PostgreSQL                      |
+| BI              | Power BI, DAX                        |
+| Spreadsheet     | Excel, Power Query                   |
+| Visualization   | Power BI, Matplotlib, Seaborn        |
+| Version Control | Git, GitHub                          |
+| Analytics       | EDA, KPI Analysis, Business Analysis |
+
+---
+
+# 🌱 Currently Learning
+
+* 🐍 Advanced Python
+* 🗄️ Advanced SQL
+* 📊 Advanced Power BI
+* 🧮 DAX & Data Modeling
+* 📈 Statistics for Data Analysis
+* 🔄 Data Cleaning & ETL
+* 💼 Business Intelligence
+
+---
+
+# 🎯 Career Goal
+
+I am looking for opportunities where I can apply my analytical and technical skills in:
+
+**Data Analytics | Business Intelligence | SQL | Power BI | Business Analysis**
+
+My goal is to continuously improve my technical skills while solving real-world business problems through data.
+
+---
+
+# 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bilalidrishi8&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalidrishi8&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=bilalidrishi8&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bilalidrishi8&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" />
+</p>
+
+---
+
+# 📊 My Analytics Journey
+
+```text
+Commerce
+   ↓
+Excel
+   ↓
+SQL
+   ↓
+Python
+   ↓
+Power BI
+   ↓
+Data Analytics
+   ↓
+Business Intelligence
+```
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://github.com/bilalidrishi8">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+### 💡 "Turning data into insights, and insights into decisions."
+
+⭐ Feel free to explore my repositories and follow my journey as I build practical Data Analytics and Business Intelligence projects.
