@@ -40,7 +40,11 @@ I enjoy transforming raw data into meaningful insights, creating interactive das
 ![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge\&logo=microsoft\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-
+<img src="https://img.shields.io/badge/instagram-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+### 🧰 Tools
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,postgres,mysql,sqlite,git,github,vscode,jupyter&perline=8" />
+</a>
 
 
 
@@ -59,4 +63,3 @@ I enjoy transforming raw data into meaningful insights, creating interactive das
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bilalidrishi8&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph" />
 </p>
-
