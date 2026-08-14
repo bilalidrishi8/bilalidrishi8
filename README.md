@@ -4,31 +4,27 @@
 
 </div>
 
-### 📊 Aspiring Data Analyst and soon Data scientist | Business Intelligence | SQL • Power BI • Excel • Python
+### 📊 Aspiring Data Analyst → Data Scientist | Business Intelligence
 
-I’m **Bilal Idrishi**, a Commerce graduate and **Bachelor of Commerce student at IGNOU**, building a career in **Data Analytics and Business Intelligence**.
+I’m **Bilal Idrishi**, a Commerce graduate and B.Com student at **IGNOU**, passionate about **Data Analytics, Data Science & Business Intelligence**.
 
-I combine my business and commerce background with hands-on skills in **SQL, Power BI, Excel, Python, and data visualization** to transform raw data into meaningful insights and business-focused solutions.
+I use **SQL, Python, Power BI & Excel** to transform data into **insights, dashboards, and business decisions**.
 
-I enjoy analyzing real-world datasets, developing analytical SQL queries, cleaning and preparing data, designing interactive dashboards, creating KPIs, and communicating insights in a clear and business-friendly way.
-
-My goal is simple:
-
-> **Turn data into insights that help businesses make better decisions.**
-
+> **Data → Insights → Decisions 🚀**
 ---
 
 ## 🚀 About Me
 
-* 🎓 Commerce graduate / pursuing Bachelor of Commerce from **IGNOU**
-* 📊 Aspiring **Data Analyst & BI Professional**
-* 🐍 Learning and building projects with **Python**
-* 🗄️ Working with **SQL & PostgreSQL**
-* 📈 Creating interactive **Power BI dashboards**
-* 📗 Using **Excel & Power Query** for data analysis
-* 💡 Interested in turning business problems into data-driven solutions
-* 🚀 Building a practical portfolio through real-world projects
-
+- 🎓 **Bachelor of Commerce — IGNOU** | Currently pursuing graduation
+- 📊 Building a career in **Data Analytics to Data Scientist & Business Intelligence**
+- 🗄️ Working with **SQL, PostgreSQL & MySQL**
+- 📈 Creating interactive **Power BI dashboards & KPI reports**
+- 📗 Using **Excel, Advanced Formulas, Pivot Tables & Power Query**
+- 🐍 Building analytics projects with **Python, Pandas & NumPy**
+- 🧹 Experienced in **data cleaning, preparation & transformation**
+- 📊 Interested in **business analysis, financial reporting & data visualization**
+- 🧠 Applying analytical thinking to solve **real-world business problems**
+- 🚀 Building an end-to-end portfolio through practical **SQL, Python, Excel & Power BI projects**
 ---
 
 ## 🛠️ Tech Stack
