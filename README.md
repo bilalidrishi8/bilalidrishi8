@@ -1,10 +1,20 @@
-# 👋 Hi, I'm Bilal Idrishi
+<div align="center">
 
-### 📊 Aspiring Data Analyst | Business Intelligence Enthusiast
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F0A1F,50:241044,100:4C1D95&text=BILAL%20IDRISHI&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=DATA%20ANALYTICS%20%7C%20DATA%20SCIENCE%20%7C%20BUSINESS%20INTELLIGENCE&descAlignY=62&descSize=17&descColor=C4B5FD"/>
 
-I am a motivated and detail-oriented **Commerce graduate** with a strong interest in **Data Analytics, Business Intelligence, and Business Problem Solving**.
+</div>
 
-I enjoy transforming raw data into meaningful insights, creating interactive dashboards, writing analytical SQL queries, and building practical Python projects.
+### 📊 Aspiring Data Analyst and soon Data scientist | Business Intelligence | SQL • Power BI • Excel • Python
+
+I’m **Bilal Idrishi**, a Commerce graduate and **Bachelor of Commerce student at IGNOU**, building a career in **Data Analytics and Business Intelligence**.
+
+I combine my business and commerce background with hands-on skills in **SQL, Power BI, Excel, Python, and data visualization** to transform raw data into meaningful insights and business-focused solutions.
+
+I enjoy analyzing real-world datasets, developing analytical SQL queries, cleaning and preparing data, designing interactive dashboards, creating KPIs, and communicating insights in a clear and business-friendly way.
+
+My goal is simple:
+
+> **Turn data into insights that help businesses make better decisions.**
 
 ---
 
@@ -47,6 +57,81 @@ I enjoy transforming raw data into meaningful insights, creating interactive das
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=python,postgres,mysql,sqlite,git,github,vscode,jupyter&perline=8" />
 </a>
+
+---
+
+## ⚡ ANALYTICS CAPABILITIES
+
+<table>
+<tr>
+<td width="15%" align="center">
+
+### 🗄️ SQL
+
+JOINs
+CTEs
+Subqueries
+Window Functions
+Ranking
+LAG / LEAD
+
+</td>
+
+<td width="15%" align="center">
+
+### 🐍 PYTHON
+
+Pandas
+NumPy
+EDA
+Data Cleaning
+Transformation
+Visualization
+
+</td>
+
+<td width="15%" align="center">
+
+### 📊 POWER BI
+
+· DAX
+· KPIs
+· Data Modeling
+· Power Query
+· Dashboards
+· Drill-through
+
+</td>
+
+<td width="15%" align="center">
+
+### 📶 STATISTICS
+
+escriptive Statistics  
+Probability  
+Mean · Median · Mode  
+Variance · Std. Dev.  
+Correlation  
+Hypothesis Testing  
+
+</td>
+<td width="15%" align="center">
+
+### 📗 EXCEL
+
+Advanced Formulas
+Pivot Tables
+Power Query
+Data Cleaning
+Reporting
+Analysis
+
+</td>
+</tr>
+</table>
+
+
+---
 
 ---
 
